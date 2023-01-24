@@ -1,1 +1,1 @@
-# set08101-practials
+# set08101-practicals
